@@ -1,0 +1,59 @@
+#+title: Pilot Stream
+#+date: <2024-02-23>
+#+author: Luis Victoria
+
+* Purpose
+** Personal
+*** Better investment of time
++ Force myself the time to improve as an engineer
+  + Getting better at programming
+  + Follow through on the creation of programs
+  + Develop a better intuition when it comes to the design of systems and programs
+*** Learning
+**** Project Development
+***** Software projects
+****** Stock Trading Bot
++ Network Programming
++ Low-level optimizations
++ Reliability Engineering
+  + Integrity of data
+  + Redundancy of system
+    + virtual and physical world
+  + State of the world
++ Concurrency
++ Algorithm development
++ Mathematics
+  + Machine Learning
+  + Game Theory
+  + Statistics
++ Money
+  + Analysis of the real world
+    + Economics
++ Hardware level optimizations
+  + Operating system optimizations
+  + Kernel bypassing
+  + FPGA???? (probably overkill)
++ Library development
+****** Payments Network
+***** Hardware projects
+****** Raspberry Pi
+****** Flipper Zero
++ Signals
++ Bare C
+****** 3 Crappy Dell Vyzes that could be used for cluster-like projects
++ NixOS
+****** FPGA
+**** Lectures
+***** Already done in Uni
++ Machine Learning
++ Functional Programming
+  + Haskell
+  + Prolog
++ Theory of Computation
++ Databases
++ Typescript Database
+***** To learn:
++ Computer Systems; A Programmer's Perspective
++ Compiler Course
+  + Crafting Interpreters?
++ OS Course
