@@ -19,7 +19,7 @@
   + Integrity of data
   + Redundancy of system
     + virtual and physical world
-  + State of the world
+  + State of the system
 + Concurrency
 + Algorithm development
 + Mathematics
@@ -34,7 +34,9 @@
   + Kernel bypassing
   + FPGA???? (probably overkill)
 + Library development
+  + Financial Mathematics
 ****** Payments Network
++ Inspired from Bitcoin
 ***** Hardware projects
 ****** Raspberry Pi
 ****** Flipper Zero
@@ -43,6 +45,10 @@
 ****** 3 Crappy Dell Vyzes that could be used for cluster-like projects
 + NixOS
 ****** FPGA
+**** Competitive Programming
++ Advent Of Code
++ Neetcode????
++ Codeforces
 **** Lectures
 ***** Already done in Uni
 + Machine Learning
@@ -52,8 +58,12 @@
 + Theory of Computation
 + Databases
 + Typescript Database
+  + Testing; Test driven development
 ***** To learn:
-+ Computer Systems; A Programmer's Perspective
++ *Computer Systems; A Programmer's Perspective*
+  + Refresher; Networking
 + Compiler Course
   + Crafting Interpreters?
+  + LLVM
 + OS Course
+  + Kernel Development?

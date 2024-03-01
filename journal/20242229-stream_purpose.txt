@@ -1,0 +1,53 @@
+Stream purpose -> be better
+ - Time management => More time = more learning
+ - Knowledge
+ - Clarity/insight
+ - Interacting
+ - Build stuff
+
+
+Approach
+ - Education
+   - Textbooks
+     - What is Money
+     - Crafting Interpreters
+   - Lectures
+     - Computer Systems; A Programmer's Perspective
+ - Coding Competitions
+   - Advent of Code
+   - Codeforces
+ - Projects
+   - Chess Engine
+     - High performance Algorithms
+     - Deep understanding of the game of Chess
+     - Quantification of positions
+       - Assigning value
+   - Poker Calculator
+     - High performance Algorithms
+     - Probability
+   - Trading Bot
+     - Network programming
+     - Mathematics
+       - Stats
+       - ML
+       - Financial mathematics
+       - Modelling
+         - Real world data
+     - Economics
+     - Low level programming
+     - Data manipulation
+     - FPGA
+     - Algorithms
+     - Game Theory
+     - Money
+       - Understanding aggregation of value
+     - 
+   - Search Engine
+     - PDF search engine
+   - Server of sorts
+     - Clustering
+     - Hosting without the cloud
+     - NixOS
+     - Webpage
+     
+Go or Rust
